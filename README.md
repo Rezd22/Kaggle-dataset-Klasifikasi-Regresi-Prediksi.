@@ -9,12 +9,18 @@ Program : IBM Advance AI
 
 
 ======Author======
-Anggota Kelompok:¶
+Anggota Kelompok:
+
 Adip Dwi Sasongko - 24060120140036
+
 Farrel Samuel Nicholas - 24060120130121
+
 Fikri Afrizal - 24060120130079
+
 Faturrahman Alharitszoe - 24060120140138
+
 Jonathan Henock Alexander Manik - 24060120130112
+
 
 Introduction
 Latar Belakang
